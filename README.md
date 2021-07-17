@@ -3,15 +3,13 @@ A Machine Learning major project which uses some complex algorithms.
 
 Tools :- numpy, pandas, matplotlib, seaborn, Natural Language Processing Kit
          
-Data Reading
+-> Data Reading
 
-Data Analysis
+-> Data Analysis
 
-Data Cleaning and Text Preprocessing
+-> Data Cleaning and Text Preprocessing
 
-Training and Testing the data.
+-> Training and Testing the data.
 
 
-Algorithms :- Linear SVM
-
-              XGBOOST
+Algorithms :- Linear SVM, XGBOOST
